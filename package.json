@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "gulp-coffee": "latest",
+    "gulp-concat": "latest",
+    "gulp-connect": "latest",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sass": "latest",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "latest",
+    "gulp-util": "latest"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
